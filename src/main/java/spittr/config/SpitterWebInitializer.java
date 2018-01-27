@@ -2,7 +2,7 @@ package spittr.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-import web.WebConfig;
+import spittr.web.WebConfig;
 
 /**
  * 
